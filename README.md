@@ -1,5 +1,6 @@
 # Payload
 Easily create payload for beginners
+# How to install :
 git clone https://github.com/ramizeyri313/Payload
 cd ispy
 chmod +x payload.sh

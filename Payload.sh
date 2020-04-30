@@ -11,7 +11,7 @@ Cafe="\033[0;33m"
 Fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
-figlet PAYLOAD ANDROID
+figlet PAYLOAD
 echo -e "$green thank you for use my new tool        $red -_RAMI_ZEYRI_- $yellow"
 echo "pleas wait a few seconds............/"
 sleep 3

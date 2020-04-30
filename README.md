@@ -3,9 +3,9 @@ Easily create payload for beginners
 # How to install :
 ```
 git clone https://github.com/ramizeyri313/Payload
-cd ispy
-chmod +x payload.sh
-./payload.sh
+cd Payload
+chmod +x Payload.sh
+./Payload.sh
 ```
 # Tested On :
 * Parrot OS 

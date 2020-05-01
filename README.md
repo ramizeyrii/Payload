@@ -1,11 +1,18 @@
 # Payload
 Easily create payload for beginners
-# How to install :
+# How to install (kali linux):
 ```
 git clone https://github.com/ramizeyrii/Payload
 cd Payload
-chmod +x Payload.sh
-./Payload.sh
+chmod +x Easy_payload.sh
+./Easy_payload.sh
+```
+# How to install (Termux):
+```
+git clone https://github.com/ramizeyrii/Payload
+cd Payload
+chmod +x Easy_payload.sh
+bash Easy_payload.sh
 ```
 # Tested On :
 * Parrot OS 

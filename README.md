@@ -19,10 +19,9 @@ bash Easy_payload.sh
 * Kali linux
 * Termux
 # info
-* GitHub profile : https://github.com/ramizeyrii
-* Facebook: https://www.facebook.com/rami.zeyri.7
-* E-mail address : rami.zeyri.5@gmail.com
+* https://linktr.ee/ramizeyri
+* E-mail address : ramizeyri@gmail.com
 # Disclaimer :
 Easily hack with my new tool
 
-follow me <3
+ <3
